@@ -174,9 +174,6 @@ List of applicants for a specific job.
 ![ViewingApplicationDetails](./ScreenShots/ViewingApplicationDetails.png)  
 Detailed applicant view with resume link and application info.
 
-#### 10. Status Changed to Accepted
-![StatusChangedToAccepted](./ScreenShots/Statuschangedtoaccepted.png)  
-Applicant status updated to "Accepted" with automatic notification.
 
 ---
 
